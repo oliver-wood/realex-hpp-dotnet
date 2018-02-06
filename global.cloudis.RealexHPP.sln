@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "global.cloudis.RealexHPP", "global.cloudis.RealexHPP\global.cloudis.RealexHPP.csproj", "{EDC67E75-4236-496B-8A9B-D74602E4803D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTests", "UnitTests\UnitTests.csproj", "{EA661174-6AF0-4EAB-BBCA-94A12BC892A1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EDC67E75-4236-496B-8A9B-D74602E4803D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDC67E75-4236-496B-8A9B-D74602E4803D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDC67E75-4236-496B-8A9B-D74602E4803D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDC67E75-4236-496B-8A9B-D74602E4803D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA661174-6AF0-4EAB-BBCA-94A12BC892A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA661174-6AF0-4EAB-BBCA-94A12BC892A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA661174-6AF0-4EAB-BBCA-94A12BC892A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA661174-6AF0-4EAB-BBCA-94A12BC892A1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

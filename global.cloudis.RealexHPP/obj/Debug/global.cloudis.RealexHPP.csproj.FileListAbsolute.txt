@@ -1,0 +1,10 @@
+C:\DEV\DogsTrust\internal\src\RealexIntegration\global.cloudis.RealexHPP\global.cloudis.RealexHPP\bin\Debug\global.cloudis.RealexHPP.dll.config
+C:\DEV\DogsTrust\internal\src\RealexIntegration\global.cloudis.RealexHPP\global.cloudis.RealexHPP\bin\Debug\global.cloudis.RealexHPP.dll
+C:\DEV\DogsTrust\internal\src\RealexIntegration\global.cloudis.RealexHPP\global.cloudis.RealexHPP\bin\Debug\global.cloudis.RealexHPP.pdb
+C:\DEV\DogsTrust\internal\src\RealexIntegration\global.cloudis.RealexHPP\global.cloudis.RealexHPP\obj\Debug\global.cloudis.RealexHPP.csprojResolveAssemblyReference.cache
+C:\DEV\DogsTrust\internal\src\RealexIntegration\global.cloudis.RealexHPP\global.cloudis.RealexHPP\obj\Debug\global.cloudis.RealexHPP.dll
+C:\DEV\DogsTrust\internal\src\RealexIntegration\global.cloudis.RealexHPP\global.cloudis.RealexHPP\obj\Debug\global.cloudis.RealexHPP.pdb
+C:\DEV\DogsTrust\internal\src\RealexIntegration\global.cloudis.RealexHPP\global.cloudis.RealexHPP\obj\Debug\global.cloudis.RealexHPP.HPPMessages.resources
+C:\DEV\DogsTrust\internal\src\RealexIntegration\global.cloudis.RealexHPP\global.cloudis.RealexHPP\obj\Debug\global.cloudis.RealexHPP.csproj.GenerateResource.Cache
+C:\DEV\DogsTrust\internal\src\RealexIntegration\global.cloudis.RealexHPP\global.cloudis.RealexHPP\bin\Debug\Newtonsoft.Json.dll
+C:\DEV\DogsTrust\internal\src\RealexIntegration\global.cloudis.RealexHPP\global.cloudis.RealexHPP\bin\Debug\Newtonsoft.Json.xml

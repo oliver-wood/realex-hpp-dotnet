@@ -1,0 +1,16 @@
+C:\DEV\DogsTrust\internal\src\RealexIntegration\global.cloudis.RealexHPP\UnitTests\bin\Debug\UnitTests.dll.config
+C:\DEV\DogsTrust\internal\src\RealexIntegration\global.cloudis.RealexHPP\UnitTests\bin\Debug\UnitTests.dll
+C:\DEV\DogsTrust\internal\src\RealexIntegration\global.cloudis.RealexHPP\UnitTests\bin\Debug\UnitTests.pdb
+C:\DEV\DogsTrust\internal\src\RealexIntegration\global.cloudis.RealexHPP\UnitTests\bin\Debug\global.cloudis.RealexHPP.dll
+C:\DEV\DogsTrust\internal\src\RealexIntegration\global.cloudis.RealexHPP\UnitTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\DEV\DogsTrust\internal\src\RealexIntegration\global.cloudis.RealexHPP\UnitTests\bin\Debug\global.cloudis.RealexHPP.pdb
+C:\DEV\DogsTrust\internal\src\RealexIntegration\global.cloudis.RealexHPP\UnitTests\obj\Debug\UnitTests.csprojResolveAssemblyReference.cache
+C:\DEV\DogsTrust\internal\src\RealexIntegration\global.cloudis.RealexHPP\UnitTests\obj\Debug\UnitTests.dll
+C:\DEV\DogsTrust\internal\src\RealexIntegration\global.cloudis.RealexHPP\UnitTests\obj\Debug\UnitTests.pdb
+C:\DEV\DogsTrust\internal\src\RealexIntegration\global.cloudis.RealexHPP\UnitTests\bin\Debug\Newtonsoft.Json.dll
+C:\DEV\DogsTrust\internal\src\RealexIntegration\global.cloudis.RealexHPP\UnitTests\bin\Debug\Newtonsoft.Json.xml
+C:\DEV\DogsTrust\internal\src\RealexIntegration\global.cloudis.RealexHPP\UnitTests\bin\Debug\data\response-enc.json
+C:\DEV\DogsTrust\internal\src\RealexIntegration\global.cloudis.RealexHPP\UnitTests\bin\Debug\data\response-enc2.json
+C:\DEV\DogsTrust\internal\src\RealexIntegration\global.cloudis.RealexHPP\UnitTests\bin\Debug\data\response-fail-enc.json
+C:\DEV\DogsTrust\internal\src\RealexIntegration\global.cloudis.RealexHPP\UnitTests\bin\Debug\data\response-enc3.json
+C:\DEV\DogsTrust\internal\src\RealexIntegration\global.cloudis.RealexHPP\UnitTests\bin\Debug\data\response-enc4.json
